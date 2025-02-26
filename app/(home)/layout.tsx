@@ -3,37 +3,6 @@ import { Metadata } from 'next';
 import React from 'react';
 
 
-// import '@/assets/'
-// import "@/public/assets/css/animations.min.css";
-// import "@/public/assets/css/brands.min.css";
-// import "@/public/assets/css/css.css";
-// import "@/public/assets/css/css2.css";
-// import "@/public/assets/css/css_1.css";
-// import "@/public/assets/css/custom-frontend.min.css";
-// import "@/public/assets/css/custom.css";
-// import "@/public/assets/css/elementor-icons.min.css";
-// import "@/public/assets/css/elementor.css";
-// import "@/public/assets/css/fontawesome.min.css";
-// import "@/public/assets/css/frontend.css";
-// import "@/public/assets/css/global.css";
-// import "@/public/assets/css/gutenberg-blocks.css";
-// import "@/public/assets/css/header-footer-elementor.css";
-// import "@/public/assets/css/icons.css";
-// import "@/public/assets/css/magnific-popup.css";
-// import "@/public/assets/css/post-10.css";
-// import "@/public/assets/css/post-1591.css";
-// import "@/public/assets/css/post-35.css";
-// import "@/public/assets/css/post-3977.css";
-// import "@/public/assets/css/post-6.css";
-// import "@/public/assets/css/post-897.css";
-// import "@/public/assets/css/rs6.css";
-// import "@/public/assets/css/solid.min.css";
-// import "@/public/assets/css/style.css";
-// import "@/public/assets/css/style.min.css";
-// import "@/public/assets/css/style_1.css";
-// import "@/public/assets/css/style_2.css";
-// import "@/public/assets/css/styles.css";
-// import "@/public/assets/css/swiper.min.css";
 
 import "@/public/assets/css/style.min.css";
 import "@/public/assets/css/gutenberg-blocks.css";
