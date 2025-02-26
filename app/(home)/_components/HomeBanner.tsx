@@ -69,7 +69,7 @@ export default HomeBanner
 
 const SingleSlider = ({ imagePath }: { imagePath: string }) => {
     // return <div className={`h-full w-full items-center flex bg-[url('/assets/images/${imagePath}')] bg-cover bg-center bg-no-repeat`}>
-    return <div className={`h-full w-full items-center flex bg-[url('/assets/images${imagePath}')] bg-cover bg-center bg-no-repeat`}>
+    return <div className={`h-full w-full items-center flex bg-[url('/assets/images/slider1.jpg')] bg-cover bg-center bg-no-repeat`}>
         <div className='lg:ml-[15%] md:ml-[10%] flex flex-col items-start mt-16 bg-red-9001'>
             <div className='mx-auto flex justify-center md:mx-0 md:justify-start lg:mx-0 lg:justify-start'>
                 <p className='text-[orange] text-[35px] text-center w-[70%] md:text-7xl md:text-start lg:text-7xl lg:leading-[80px] lg:w-[45%] lg:text-start'>The Story Of Modern Stylish Salon</p>
