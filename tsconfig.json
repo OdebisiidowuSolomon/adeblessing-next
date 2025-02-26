@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/(home)/_components/HomeBanner.jsx", "app/(home)/_components/HomeBanner.jsx","global.d.ts"],
   "exclude": ["node_modules"]
 }

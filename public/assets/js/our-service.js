@@ -1,0 +1,1 @@
+(function($){"use strict";$(window).on('elementor/frontend/init',()=>{elementorFrontend.hooks.addAction('frontend/element_ready/beautifly-our-service.default',($element)=>{let addHandler=$('.beautifly-swiper-wrapper',$element);if(addHandler.length>0){elementorFrontend.elementsHandler.addHandler(beautiflySwiperBase,{$element,});}});});})(jQuery);
