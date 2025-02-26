@@ -68,6 +68,8 @@ export default HomeBanner
 
 
 const SingleSlider = ({ imagePath }: { imagePath: string }) => {
+    console.log(imagePath);
+    
     // return <div className={`h-full w-full items-center flex bg-[url('/assets/images/${imagePath}')] bg-cover bg-center bg-no-repeat`}>
     return <div className={`h-full w-full items-center flex bg-[url('/assets/images/slider1.jpg')] bg-cover bg-center bg-no-repeat`}>
         <div className='lg:ml-[15%] md:ml-[10%] flex flex-col items-start mt-16 bg-red-9001'>
