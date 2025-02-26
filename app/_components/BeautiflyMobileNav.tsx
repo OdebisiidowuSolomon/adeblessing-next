@@ -22,15 +22,15 @@ function BeautiflyMobileNav() {
 
                             </li>
                             <li className="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-121">
-                                <a href="./about.html">About Us</a>
+                                <a href="/about">About Us</a>
 
                             </li>
                             <li className="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-113">
-                                <a href="./services.html">Services</a>
+                                <a href="/services">Services</a>
 
                             </li>
                             <li className="menu-item menu-item-type-post_type_archive menu-item-object-beautifly_portfolio menu-item-has-children menu-item-5157">
-                                <a href="./contact.html">Contact</a>
+                                <a href="/contact">Contact</a>
 
                             </li>
 
@@ -41,9 +41,9 @@ function BeautiflyMobileNav() {
                     <div className="menu">
                         <ul>
                             <li><Link href="/">Home</Link></li>
-                            <li className="page_item page-item-14"><a href="/about.html">About Us</a></li>
-                            <li className="page_item page-item-12"><a href="/contact.html">Contact Us</a></li>
-                            <li className="page_item page-item-16"><a href="/services.html">Services</a></li>
+                            <li className="page_item page-item-14"><a href="/about">About Us</a></li>
+                            <li className="page_item page-item-12"><a href="/contact">Contact Us</a></li>
+                            <li className="page_item page-item-16"><a href="/services">Services</a></li>
 
                         </ul>
                     </div>
