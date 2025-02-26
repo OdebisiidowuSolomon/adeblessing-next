@@ -65,7 +65,7 @@ function HomeFullRangeOfOurService() {
                                 </div>
                             </div>
                         </div>
-                        <div className="elementor-element elementor-element-a27e82a e-con-full e-flex e-con" data-id="a27e82a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                        {/* <div className="elementor-element elementor-element-a27e82a e-con-full e-flex e-con" data-id="a27e82a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
                             <div className="elementor-element elementor-element-aeb3e1d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="aeb3e1d" data-element_type="widget" data-widget_type="icon-list.default">
                                 <div className="elementor-widget-container">
                                     <ul className="elementor-icon-list-items">
@@ -97,7 +97,7 @@ function HomeFullRangeOfOurService() {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div className="elementor-element elementor-element-70cde05 elementor-tablet_extra-align-left elementor-button-default elementor-widget elementor-widget-button" data-id="70cde05" data-element_type="widget" data-widget_type="button.default">

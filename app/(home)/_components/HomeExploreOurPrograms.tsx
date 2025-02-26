@@ -17,7 +17,7 @@ function HomeExploreOurPrograms() {
                 </div>
                 <div className="elementor-element elementor-element-d46fdd4 e-flex e-con-boxed e-con" data-id="d46fdd4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
                     <div className="e-con-inner">
-                        <div className="elementor-element elementor-element-d1eba50 e-con-full e-flex e-con" data-id="d1eba50" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                        <div style={{display:'block'}} className="elementor-element elementor-element-d1eba50 e-con-full e-flex e-con" data-id="d1eba50" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
                             <div className="elementor-element elementor-element-0e30d3f our-portfolio-style-2 elementor-grid-1 elementor-pagination-style-1 elementor-widget elementor-widget-beautifly-our-service" data-id="0e30d3f" data-element_type="widget" data-settings="{&quot;column&quot;:&quot;1&quot;,&quot;column_spacing&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]}}" data-widget_type="beautifly-our-service.default">
                                 <div className="elementor-widget-container">
                                     <div className="beautifly-wrapper beautifly_portfolio-wrapper">
@@ -65,7 +65,7 @@ function HomeExploreOurPrograms() {
                                 </div>
                             </div>
                         </div>
-                        <div className="elementor-element elementor-element-df3b20c e-con-full e-flex e-con" data-id="df3b20c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                        <div style={{display:'block'}} id='hairColor' className="elementor-element elementor-element-df3b20c e-con-full e-flex e-con" data-id="df3b20c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
                             <div className="elementor-element elementor-element-5b2c7c6 our-portfolio-style-2 elementor-grid-1 elementor-pagination-style-1 elementor-widget elementor-widget-beautifly-our-service" data-id="5b2c7c6" data-element_type="widget" data-settings="{&quot;column&quot;:&quot;1&quot;,&quot;column_spacing&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="beautifly-our-service.default">
                                 <div className="elementor-widget-container">
                                     <div className="beautifly-wrapper beautifly_portfolio-wrapper">

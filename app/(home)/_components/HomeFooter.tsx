@@ -80,7 +80,7 @@ function HomeFooter() {
                                     </div>
                                     <div className="elementor-element elementor-element-4c775de elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="4c775de" data-element_type="widget" data-widget_type="social-icons.default">
                                         <div className="elementor-widget-container">
-                                            <div className="elementor-social-icons-wrapper elementor-grid">
+                                            <div className="elementor-social-icons-wrapper elementor-grid" style={{display:'flex'}}>
                                                 <span className="elementor-grid-item">
                                                     <Link className="elementor-icon elementor-social-icon elementor-social-icon-beautifly-icon-facebook-f elementor-animation-float elementor-repeater-item-32a6e29" href="/" target="_blank">
                                                         <span className="elementor-screen-only">Beautifly-icon-facebook-f</span>

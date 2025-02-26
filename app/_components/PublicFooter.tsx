@@ -79,7 +79,7 @@ function PublicFooter() {
                                     </div>
                                     <div className="elementor-element elementor-element-e03f3a9 elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="e03f3a9" data-element_type="widget" data-widget_type="social-icons.default">
                                         <div className="elementor-widget-container">
-                                            <div className="elementor-social-icons-wrapper elementor-grid">
+                                            <div className="elementor-social-icons-wrapper elementor-grid" style={{display:'flex'}}>
                                                 <span className="elementor-grid-item">
                                                     <a className="elementor-icon elementor-social-icon elementor-social-icon-beautifly-icon-facebook-f elementor-animation-float elementor-repeater-item-32a6e29" href="https://www.facebook.com" target="_blank">
                                                         <span className="elementor-screen-only">Beautifly-icon-facebook-f</span>
