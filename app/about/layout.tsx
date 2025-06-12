@@ -130,10 +130,7 @@ function AboutLayout({
                     <PublicFooter />
                 </div>
 
-                {/* Page */}
-                {/* Mobile nav */}
-                {/* popup */}
-                {/* canvas info right */}
+
 
                 <BeautiflyMobileNav />
                 <div className="beautifly-overlay"></div>

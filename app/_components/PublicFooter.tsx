@@ -24,23 +24,23 @@ function PublicFooter() {
                                                     </Link>
                                                 </li>
                                                 <li className="elementor-icon-list-item">
-                                                    <Link href="/">
+                                                    <Link href="/service">
                                                         <span className="elementor-icon-list-text">Men Hair Salon</span>
                                                     </Link>
                                                 </li>
                                                 <li className="elementor-icon-list-item">
-                                                    <Link href="/">
+                                                    <Link href="/service">
                                                         <span className="elementor-icon-list-text">Women Hair Salon</span>
                                                     </Link>
                                                 </li>
                                                 <li className="elementor-icon-list-item">
-                                                    <a href="/about.html">
+                                                    <a href="/about">
                                                         <span className="elementor-icon-list-text">About Us </span>
                                                     </a>
                                                 </li>
 
                                                 <li className="elementor-icon-list-item">
-                                                    <a href="./contact.html">
+                                                    <a href="./contact">
                                                         <span className="elementor-icon-list-text">Contact Us </span>
                                                     </a>
                                                 </li>
