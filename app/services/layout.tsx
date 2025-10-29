@@ -51,8 +51,8 @@ import PublicBreadCrumb from '../_components/PublicBreadCrumb';
 
 
 export const metadata: Metadata = {
-    title: "Service Page",
-    description: "Ade Blessing Salon - Premier Beauty Salon Services in Edinburgh &amp; Aberdeen ",
+    title: "Our Services",
+    description: "We at AdeBlessing are dedicated to giving you exceptional services that go above and beyond. With our knowledgeable staff, individualised care, and dedication to quality, we aim to be your one-stop shop for all of your medical, grooming, and cosmetic needs. Make an appointment right now to see the differences for yourself!",
 };
 
 

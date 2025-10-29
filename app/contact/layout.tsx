@@ -50,8 +50,8 @@ import PublicBreadCrumb from '../_components/PublicBreadCrumb';
 
 
 export const metadata: Metadata = {
-    title: "Contact Page",
-    description: "Ade Blessing Salon - Premier Beauty Salon Services in Edinburgh &amp; Aberdeen ",
+    title: "Contact Us",
+    description: "AdeBlessing is always available to help and answer any questions you may have so you can choose wisely when it comes to starting your salon experience with us.",
 };
 
 

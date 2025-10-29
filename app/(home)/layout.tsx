@@ -52,7 +52,7 @@ import HomeHeader from './_components/HomeHeader';
 
 
 export const metadata: Metadata = {
-    title: "Home",
+    title: 'Home',
     description: "Ade Blessing Salon - Premier Beauty Salon Services in Edinburgh &amp; Aberdeen ",
 };
 
